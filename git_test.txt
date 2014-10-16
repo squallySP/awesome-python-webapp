@@ -1,1 +1,3 @@
-this is a git test file.
+this is a git test file. plus a word
+
+this is another line.
