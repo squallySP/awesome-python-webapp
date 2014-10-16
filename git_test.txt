@@ -1,5 +1,0 @@
-this is a git test file. plus a word
-
-insert a new line.
-
-this is another line.
